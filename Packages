@@ -1,5 +1,5 @@
-Package: gpscheat
-Version: 1.1-5
+Package: GPScheatXO
+Version: 1.1.5
 Section: Tweaks
 Maintainer: XO <email@gmail.com>
 Depends: firmware (>11.0), mobilesubstrate
