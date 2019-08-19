@@ -1,0 +1,149 @@
+Package: GPScheatXO
+Version: 1.1.5
+Section: Tweaks
+Maintainer: XO <email@gmail.com>
+Depends: firmware (>11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/gpscheat_1.1-5.deb
+Size: 133726
+MD5sum: 6fb2dba334c46876065709fb35e5e410
+SHA1: 7f3a209b6b7ee742474cadecd42f556e83e19d8d
+SHA256: ddaf104be326b7882a6578a7587a346299e965ebb0b8bc530a71c15ff84511af
+Description: To Change the GPS Location.
+Name: GPScheatXO
+Author: XO <email@gmail.com>
+
+Package: libertylite
+Version: 0.2.10
+Section: Tweaks
+Maintainer: XO <email@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/Libertybeta_0.2.11.deb
+Size: 37582
+MD5sum: d8981b3b1683066c22996bab4b2cea75
+SHA1: 2127eabd0b71df65a7d859ba927a2ccd8877f04d
+SHA256: a4b7c397e3d65a1808b4ceca4418095039c743fc803c6c74335b7f8944b9dc04
+Description: Jailbreak Apps bypass
+Name: Liberty Lite
+Author: XO <email@gmail.com>
+
+Package: noplsrecovery
+Version: 2.1
+Section: Tweaks
+Maintainer: XO <email@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/noplsrecovery_2.1.deb
+Size: 5212
+MD5sum: a56d36060ecfbd9a1e4d4d9415c969a5
+SHA1: 70f764ffda106422b61e26f1d8f40b6c1830d483
+SHA256: bdea047661322ab3149408180cb5bbe86298890d65d3eee32530fe6d0ec13675
+Description: helps devices into no recovery mode.
+Name: noplsrecovery
+Author: XO <email@gmail.com>
+
+Package: mhbcb
+Version: 1.1
+Section: Tweaks
+Maintainer: XO <email@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/mhbcb_1.1.deb
+Size: 11750
+MD5sum: e8cfe03b6503702d5d570baacd63eeb5
+SHA1: ab8558c59ea9dbf56ddd836d6e4dff6041432fe6
+SHA256: 7700adb924b9aab0e0108750a1d6bb9b6ad32a0cc12385a36f5ba92fa63d276a
+Description: Blocks ads
+Name: minimalhostsblocker CB
+Author: XO <email@gmail.com>
+
+Package: minimalhostsblocker
+Version: 7.1
+Section: Tweaks
+Maintainer: XO <email@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/minimalhostsblocker_7.1.deb
+Size: 95984
+MD5sum: 687db7162f5610da983d55d65ff4d74c
+SHA1: a1f968291019bce67341f4fdf56a9f47bf5db8c2
+SHA256: a871aa4f06302aee7c6ebd8e603fcaaca6c62c13458b7384875d8399f13e308f
+Description: Blocks Ads
+Name: minimalhostsblocker
+Author: XO <email@gmail.com>
+
+Package: appsyncunified
+Version: 31.1
+Section: Tweaks
+Maintainer: XO <email@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/appsyncunified_31.1.deb
+Size: 30374
+MD5sum: 860f1ec60b4e3764ced2518ca623f4b4
+SHA1: 85b1566c4f1de71c5bdaec855809fd660f29ba2c
+SHA256: addf527a3dea40f9b5357315040e51578a8db43a84746d34e5e0a33e9f04146f
+Description: Direct IPA install.
+Name: Appsyncunified
+Author: XO <email@gmail.com>
+
+Package: scothman
+Version: 12.8.2
+Section: Tweaks
+Maintainer: XO <email@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/scothman_12.8.2.deb
+Size: 3171556
+MD5sum: 00d4448a4c3d6b3260358dd03f845be7
+SHA1: cad1158e08eb42a68011f69ab646ae21bcd208cc
+SHA256: c56e8167096b28d441200c89650b77b3b0717037447e43fac69687ad68aefeca
+Description: Snapchat Tweak works on 10.27.1
+Name: Scothman
+Author: XO <email@gmail.com>
+
+Package: stackxi
+Version: 0.5.5
+Section: Tweaks
+Maintainer: XO <email@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/stackxi_0.5.5.deb
+Size: 61468
+MD5sum: 860f1ec60b4e3764ced2518ca623f4b4
+SHA1: 3443626a63ac1868331cc975b12aa102a3a8a14e
+SHA256: 1deb52e2baecd95bb72b15094310438cc22b03b0f4f0ea09d84da7fff60c34af
+Description: Tweaks that can clear all notification at once like ios 12.
+Name: stackxi
+Author: XO <email@gmail.com>
+
+Package: zeppelin
+Version: 2.2.0-13
+Section: Tweaks
+Maintainer: XO <email@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/zeppelin_2.2.0-13.deb
+Size: 962514
+MD5sum: 1aa45e70ec35ee8edcfce5982559e58c
+SHA1: 8fe3fe565e4d7ade9c02d230dfa15b7b3675c0ec
+SHA256: b551c618e8872c835b2f460208c31c2cc6f3de4d1042294a024060ada405d635
+Description: Change Carrier Name and logo
+Name: zeppelin
+Author: XO <email@gmail.com>
+
+Package: relocate
+Version: relocate
+Section: Tweaks
+Maintainer: XO <email@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/relocate_0.1.0.deb
+Size: 65920
+MD5sum: e332ec52de9a0316c97e28e2f6e1e43c
+SHA1: c6d508bfe0971722ab116251d4fa313331f1cf64
+SHA256: c23b322341605495eaed48a45276c151842277d76aae0b459ec8a8876a41d410
+Description: Change Carrier Name and logo
+Name: zeppelin
+Author: XO <email@gmail.com>
