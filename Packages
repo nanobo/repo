@@ -145,5 +145,20 @@ MD5sum: e332ec52de9a0316c97e28e2f6e1e43c
 SHA1: c6d508bfe0971722ab116251d4fa313331f1cf64
 SHA256: c23b322341605495eaed48a45276c151842277d76aae0b459ec8a8876a41d410
 Description: Change Carrier Name and logo
-Name: zeppelin
+Name: relocate
+Author: XO <email@gmail.com>
+
+Package: dzsnap
+Version: 1.0.5-5
+Section: Tweaks
+Maintainer: XO <email@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/dzsnap1.0.5-5.deb
+Size: 6686702
+MD5sum: 7d84cd95446d5fadbf41a5af9f514cc4
+SHA1: cc75750ce6b96a505b2637bdb483746405f436c7
+SHA256: 06464f45f513c61c1a009c0f945eebbadaecd6e17dcece50062e1f6ceb973990
+Description: USE below snap v 10.52
+Name: Dzsnap
 Author: XO <email@gmail.com>
